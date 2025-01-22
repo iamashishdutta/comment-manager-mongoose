@@ -1,0 +1,31 @@
+{
+    "name": "comment-manager-mongoose",
+    "version": "1.0.0",
+    "description": "A simple package for managing comments and replies with nested replies using MongoDB and Mongoose.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "keywords": [
+      "mongoose",
+      "comment",
+      "reply",
+      "nested-reply",
+      "mongodb",
+      "comment-manager"
+    ],
+    "author": "Ashish Dutta <https://github.com/iamashishdutta>",
+    "license": "MIT",
+    "peerDependencies": {
+      "mongoose": "*"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/iamashishdutta/comment-manager-mongoose.git"
+    },
+    "bugs": {
+      "url": "https://github.com/iamashishdutta/comment-manager-mongoose/issues"
+    },
+    "homepage": "https://github.com/iamashishdutta/comment-manager-mongoose#readme"
+  }
+  
